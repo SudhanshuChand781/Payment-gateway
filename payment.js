@@ -1,3 +1,4 @@
+<!...........>
 let gooIndex = document.getElementById('goo-index');
 let hoverEnter = index =>{
   gooIndex.style.top = 100*index+'px';
